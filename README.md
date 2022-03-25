@@ -1,4 +1,4 @@
-# Support discord server: https://discord.com/invite/U6AeSYyn3g
+# This hack has been forked from [gliz](https://twitter.com/glizuwu) due to the removal of all the hacks on his github page. Please know! Information on this README may not be correct. Open an issue [here](https://github.com/xylogithub/blooket-hack/issues) (only for not working stuff), or see ImportantInfo.md.
 
 # The Blooket Hack
 

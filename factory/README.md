@@ -7,7 +7,7 @@ This cheat only works in factory game mode!
 # getCash.js
 
 ### Get the script from the file [getCash.js](https://raw.githubusercontent.com/glixzzy/blooket-hack/main/factory/getCash.js)
-
+not working as of march 2022
 New scripts are at:
 https://schoolcheats.net/blooket
 
